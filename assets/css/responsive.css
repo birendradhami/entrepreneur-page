@@ -1,0 +1,465 @@
+@media screen and (max-width: 1500px) {
+  /* Ent Banner */
+
+  .con_tainer,
+  .conta_iner,
+  .cont_iner,
+  .cont_ainer {
+    max-width: 1170px;
+  }
+
+  .entp_bnr_rt:after {
+    top: -7%;
+    left: 24%;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+}
+
+@media screen and (max-width: 1200px) {
+  /* Ent Banner */
+
+  .entp_bnr_sc {
+    height: auto;
+  }
+
+  .entp_bnr_lf,
+  .entp_trst_lf,
+  .entp_bsns_lt,
+  .srvcs_cntnt_lt h2,
+  .entp_bsns_rt {
+    width: 100%;
+    text-align: center;
+  }
+
+  .entp_prv_lt .blk_span,
+  .srvcs_cntnt_lt h2 .blk_span,
+  .entp_prt_lf .blk_span,
+  .entp_bnr_lf .blk_span {
+    display: initial;
+  }
+
+  .entp_bnr_cntnt:before,
+  .entp_bnr_rt:after,
+  .entp_bnr_cntnt:after,
+  .entp_bnr_sc:after {
+    display: none;
+  }
+
+  .entp_cta_cntnt .entp_cta_lt,
+  .entp_bnr_rt,
+  .entp_prt_lf,
+  .entp_prv_lt p,
+  .entp_prv_lt,
+  .entp_prv_rt {
+    width: 100%;
+    text-align: center;
+  }
+
+  .entp_bnr_rt figure {
+    width: 100%;
+  }
+
+  /* Ent Trusted */
+
+  .entp_trst_sc {
+    background: #1b1a37;
+  }
+
+  .entp_trst_cntnt,
+  .entp_prv_cntnt {
+    height: auto;
+    background: none;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+
+  .entp_trst_lf figure {
+    position: inherit;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .entp_trst_lf figure img {
+    height: 100%;
+  }
+
+  .entp_trst_rt,
+  .entp_bsns_rt,
+  .srvcs_cntnt_lt {
+    padding: 0;
+    width: 100%;
+  }
+
+  /* Ent Partners */
+
+  .entp_prt_sh {
+    background: none;
+    box-shadow: none;
+    border: unset;
+    width: 100%;
+    position: initial;
+    padding: 10px;
+  }
+
+  .entp_prt_img figure {
+    margin: 0 auto;
+  }
+
+  .entp_prt_rt {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  /* Ent Unlock */
+
+  .entp_bsns_sc:after,
+  .entp_bsns_cntnt:after,
+  .entp_bsns_cntnt:before,
+  .entp_bsns_sc:before {
+    display: none;
+  }
+
+  .entp_bsns_sc {
+    padding-bottom: 60px;
+  }
+
+  .entp_bsns_lt {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Ent Cta1 */
+
+  .entp_cta1 {
+    background: #406cff;
+  }
+
+  .entp_cta_cntnt .entp_cta_rt {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  /* Ent Pave */
+
+  .entp_trst_cntnt,
+  .entp_prv_cntnt {
+    height: auto;
+    background: none;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+
+  .entp_prv_lst {
+    display: none;
+  }
+
+  /* Ent Vision */
+
+  .gt_strtd_rt,
+  .grwng_cta_rt,
+  .partnrs-slider {
+    margin-top: 30px;
+  }
+
+  .srvcs_cntnt_lt {
+    padding: 0;
+    width: 100% !important;
+  }
+
+  .partnrs-slider-nav {
+    justify-content: center;
+  }
+
+  .srvcs_cntnt_rt {
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+  }
+
+  .partnrs-slider .slick-slide div {
+    text-align: center;
+    margin: 0 auto 20px;
+  }
+
+  /* Ent Cta2 */
+
+  .entp_cta2:after,
+  .entp_cta_cntnt .entp_cta_rt figure {
+    display: none;
+  }
+
+  .entp_cta2 {
+    background: #1b1a37;
+  }
+
+  .entp_cta2 {
+    margin-top: 0px;
+    padding: 40px 20px;
+  }
+
+  .entp_cta2 .entp_cta_lt h2 {
+    font-size: 28px;
+    width: 100%;
+  }
+
+  .entp_cta_cntnt .entp_cta_lt {
+    padding: 0%;
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  /* Ent Banner */
+
+  .nw_hdng h1 {
+    font-size: 34px;
+    line-height: 1.2;
+  }
+
+  .entp_bnr_rt figure {
+    width: 100%;
+  }
+
+  .entp_bnr_rt figure img {
+    max-width: 75%;
+    height: auto;
+  }
+
+  /* Ent Trusted */
+
+  .entp_trst_rt .nw_sbhdng h2 {
+    font-size: 24px;
+  }
+
+  .blk_span {
+    display: inline;
+  }
+
+  /* Ent Partners */
+
+  .entp_prt_img figure {
+    width: 80%;
+    margin: 20px auto 0;
+  }
+
+  .entp_prt_inr {
+    margin-bottom: 20px;
+    padding-left: 30px;
+  }
+
+  .entp_prt_inr:before {
+    height: 13px;
+    width: 13px;
+  }
+
+  .entp_prt_inr:after {
+    left: -1px;
+    top: 6px;
+    height: 15px;
+    width: 15px;
+  }
+
+  /* Ent Pave */
+
+  .entp_prv_cnt {
+    padding: 20px 0;
+  }
+
+  .entp_prv_cnt .cnt_img {
+    flex-wrap: wrap;
+    gap: 0;
+    padding: 0;
+  }
+
+  .entp_prv_cnt .cnt_img figure {
+    margin: 0 auto 10px;
+  }
+
+  .entp_prv_cnt .cnt_img h3 {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .entp_prv_cnt p {
+    text-align: center;
+    font-size: 16px;
+    line-height: normal;
+  }
+
+  /* Ent Execution */
+
+  .entp_exe_sc {
+    padding-bottom: 40px;
+  }
+
+  .entp_exe_mn {
+    height: auto;
+  }
+
+  .entp_exe_mn {
+    flex-wrap: wrap;
+  }
+
+  .entp_exe_lf {
+    width: 100%;
+    position: inherit;
+  }
+
+  .entp_exe_lf ul,
+  .entp_exe_rt:after,
+  .entp_exe_lst h3:before {
+    display: none;
+  }
+  .entp_exe_rt {
+    width: 100%;
+  }
+
+  .entp_exe_lst {
+    margin-top: 0;
+    padding: 0;
+  }
+
+  .entp_exe_lst h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .entp_exe_cnt {
+    flex-wrap: wrap;
+  }
+
+  .entp_exe_cnt {
+    margin: 30px 0;
+  }
+
+  .entp_exe_inr {
+    width: 47%;
+    padding: 20px;
+    margin-bottom: 30px;
+    min-height: 320px;
+  }
+
+  .exe_nb {
+    font-size: 40px;
+    position: inherit;
+    right: 0;
+  }
+
+  .entp_exe_inr hr {
+    margin-top: 10px;
+  }
+
+  .entp_exe_cnt h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .entp_exe_btn .button_main button {
+    display: block !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 600px) {
+}
+
+@media screen and (max-width: 425px) {
+  /* Ent Banner */
+
+  .nw_hdng h1 {
+    font-size: 26px;
+  }
+
+  .entp_bnr_cntnt .nw_hdng p {
+    margin: 10px 0;
+  }
+
+  .nw_sbhdng p,
+  .nw_hdng p {
+    font-size: 16px;
+    line-height: normal;
+  }
+
+  .button_main button a {
+    font-size: 1rem;
+  }
+
+  /* Ent Trusted */
+
+  .entp_trst_lf figure {
+    width: 80%;
+    height: auto;
+  }
+
+  .entp_trst_rt .nw_sbhdng h2 {
+    font-size: 20px;
+  }
+
+  /* Ent Partners */
+
+  .line.line-1 {
+    display: none;
+  }
+
+  .entp_prt_inr {
+    margin-bottom: 10px;
+    padding-left: 25px;
+  }
+
+  .entp_prt_inr p {
+    font-size: 16px;
+  }
+
+  /* Ent Pave */
+
+  /* .entp_prv_cnt .cnt_img figure {
+        width: 70px;
+        height: 70px;
+    } */
+
+  /* Ent Execution */
+
+  .entp_exe_lst h3,
+  .exe_nb {
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+
+  .entp_exe_rt p {
+    font-size: 16px;
+    line-height: normal;
+    margin-top: 8px;
+  }
+
+  .entp_exe_cnt {
+    margin: 20px 0;
+  }
+
+  .entp_exe_inr {
+    width: 100%;
+    min-height: auto;
+    margin-bottom: 20px;
+  }
+
+  /* Ent Vision */
+
+  .srvcs_cntnt_lt {
+    text-align: center;
+  }
+
+  /* Ent Cta2 */
+
+  .entp_cta2 .button_main button {
+    margin-bottom: 0px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+}
